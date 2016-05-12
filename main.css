@@ -1,0 +1,19 @@
+.brand {
+    margin: 0;
+    
+    display: inline-block;
+}
+header {
+    background-color: mediumpurple;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+.nav-bar {
+    float right;
+    display: inline-block;
+}
+.nav-bar a{
+    display: inline-block
+}
